@@ -46,5 +46,5 @@ For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupc
 
 FOLLOW ME HERE:
 
-Facebook: https://www.facebook.com/whatsupcoders
+Facebook: https://www.facebook.com/whatsupcoders <br />
 Twitter: https://www.twitter.com/whatsupcoders
