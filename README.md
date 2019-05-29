@@ -36,7 +36,7 @@ https://github.com/flutter/flutter/issues/15972
         </tr>
       <tr>
             <td style="text-align: center">
-                    <img src="https://github.com/whatsupcoders/FlutterDropDown/blob/master/assests/dropdown.gif" width="200"/>
+                    <img src="https://github.com/whatsupcoders/FlutterDropDown/blob/master/assests/dropdowngif.gif" width="200"/>
             </td>            
       </tr>
   </table>
