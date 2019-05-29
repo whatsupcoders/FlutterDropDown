@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585312660641",
+    "firebase_url": "https://flutter-dropdown.firebaseio.com",
+    "project_id": "flutter-dropdown",
+    "storage_bucket": "flutter-dropdown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585312660641:android:5817f44aa88f685b",
+        "android_client_info": {
+          "package_name": "com.example.flutterdropdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585312660641-ejsnnudc7q35c66d8sqe19klr8vcpfu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrD01IuJLmviQNZjpnh1IfC9KUxdKoBSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585312660641-ejsnnudc7q35c66d8sqe19klr8vcpfu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
