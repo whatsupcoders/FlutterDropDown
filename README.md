@@ -1,16 +1,50 @@
 # flutterdropdown
 
-A new Flutter project.
+Flutter Tutorial - Flutter DropdownButton with Firestore
+Flutter Tutorials - Flutter DropdownButton with Firestore Video series can be watched here https://youtu.be/pAn3-cqJ9MM
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+we will see how to implement a dropdown feature in your Flutter Application and the available items in the dropdown
+ are not static, in fact, they are retrieved from the Firestore.
+ 
+ 
+ You can watch this video https://www.youtube.com/watch?v=R12ks4yDpMM for details explanation on setting up a project on Firebase console.
 
-A few resources to get you started if this is your first Flutter project:
+The Cloud Firestore plugin details are available in this link 
+https://pub.dartlang.org/packages/cloud_firestore/versions/0.9.13
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+To set up the project on Firebase console use this link https://console.firebase.google.com
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Regarding the common errors you might come across during the setup process are listed below.
+
+https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility
+https://github.com/flutter/flutter/issues/15972 
+
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FlutterDropDown/blob/master/assests/Screenshot_1559088688.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                     <img src="https://github.com/whatsupcoders/FlutterDropDown/blob/master/assests/Screenshot_1559088697.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FlutterDropDown/blob/master/assests/Screenshot_1559088707.png" width="200"/>
+            </td>
+        </tr>
+      <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FlutterDropDown/blob/master/assests/dropdown.gif" width="200"/>
+            </td>            
+      </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders
+
+FOLLOW ME HERE:
+
+Facebook: https://www.facebook.com/whatsupcoders
+Twitter: https://www.twitter.com/whatsupcoders
